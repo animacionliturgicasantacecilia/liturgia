@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "liturgia",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "55e83819-ab81-4dc4-86d4-efa034d4f5a2",
+			"database_name": "liturgia"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
